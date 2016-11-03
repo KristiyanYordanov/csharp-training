@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\bin\Debug\KDay1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\bin\Debug\KDay1.exe
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\bin\Debug\KDay1.pdb
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\obj\Debug\KDay1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\obj\Debug\KDay1.exe
+c:\users\student\documents\visual studio 2015\Projects\KDay1\KDay1\obj\Debug\KDay1.pdb
